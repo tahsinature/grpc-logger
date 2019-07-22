@@ -13,7 +13,7 @@
     "grpc-node"
   ],
   "author": "Mohammad Tahsin",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tahsinature/grpc-logger/issues"
   },
